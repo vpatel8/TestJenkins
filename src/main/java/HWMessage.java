@@ -10,6 +10,6 @@ public class HWMessage {
 
     public String hwMessage()
     {
-        return null;
+        return this.message;
     }
 }
